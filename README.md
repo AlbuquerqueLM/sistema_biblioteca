@@ -9,4 +9,4 @@ Este projeto é um programa em Python que permite gerenciar uma biblioteca simpl
 - Gerar gráfico - de quantidade de livros por gênero (usando `matplotlib`).  
 - Menu interativo - para facilitar a navegação do usuário.  
 
-Se quiser executar esse código, basta clicar [Aqui.](https://onlinegdb.com/QazIzce5t) 
+Se quiser executar esse código, basta clicar [Aqui.](https://colab.research.google.com/github/AlbuquerqueLM/sistema_biblioteca/blob/main/biblioteca.ipynb) 
